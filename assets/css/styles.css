@@ -137,7 +137,7 @@ body.scale-cv {
 
 .scale-cv .home__icon,
 .scale-cv .social__icon,
-.scale-cv ,.interests__icon {
+.scale-cv .interests__icon {
   font-size: 1rem;
 }
 
@@ -498,12 +498,6 @@ img {
   font-size: 1.5rem;
   color: var(--text-color-light);
   margin-bottom: .25rem;
-}
-
-.interests__name {
-  display: flex;
-  align-items: center;
-  margin-bottom: var(--mb-3);
 }
 
 /* Scroll top */
