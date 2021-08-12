@@ -388,6 +388,10 @@ img {
   gap: 1rem;
 }
 
+.social__container svg {
+  margin-right: 5px;
+}
+
 .social__link {
   display: inline-flex;
   align-items: center;
