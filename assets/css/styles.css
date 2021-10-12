@@ -468,7 +468,7 @@ img {
 .skills__name, .language__name {
   display: flex;
   align-items: center;
-  margin-bottom: var(--mb-3);
+  margin-bottom: var(--mb-1);
 }
 
 .skills__circle, .language__circle {
